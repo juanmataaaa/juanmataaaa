@@ -1,8 +1,10 @@
 # Hey there 👋
 
-I'm **Juan Mata**, a passionate developer always exploring new technologies and improving my skills. I'm currently focusing on **Java**, **C#**, and **Python**, developing apps and games, and learning every day.
+I'm **Juan Mata**, a passionate **Multiplatform Application Developer** who loves creating software that solves real-world problems. I'm always exploring new technologies, improving my skills, and building apps and games that combine creativity with solid code.
 
-If you'd like to connect or collaborate, feel free to reach out!
+I enjoy working both independently and as part of a team, and I'm especially interested in **cross-platform development**, **mobile applications**, and **desktop solutions**. I'm currently focusing on **Java**, **.NET MAUI**, **C#**, and **Python**, and I thrive on learning something new every day.
+
+If you'd like to connect, collaborate, or just talk about code, feel free to reach out!
 
 ---
 
@@ -16,6 +18,14 @@ If you'd like to connect or collaborate, feel free to reach out!
 
 ---
 
+### 📱 Frameworks & Tools :
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+---
+
 ### 🧠 Databases :
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -25,12 +35,12 @@ If you'd like to connect or collaborate, feel free to reach out!
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
 ---
 
 ### 📊 Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMata&layout=compact&theme=radical)](https://github.com/JuanMata)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMata&layout=compact&theme=radical&langs_count=8)](https://github.com/JuanMata)
+
+> 💡 Most used languages: **Java** and **.NET MAUI**
 
 ---
 
