@@ -38,9 +38,9 @@ If you'd like to connect, collaborate, or just talk about code, feel free to rea
 ---
 
 ### 📊 Most Used Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMata&layout=compact&theme=radical&langs_count=8)](https://github.com/JuanMata)
-
+![Top Langs](https://github.com/JuanMata/tu-repo/blob/main/assets/stats.png?raw=true)
 > 💡 Most used languages: **Java** and **.NET MAUI**
+
 
 ---
 
