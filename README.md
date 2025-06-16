@@ -37,10 +37,17 @@ If you'd like to connect, collaborate, or just talk about code, feel free to rea
 
 ---
 
-### 📊 Most Used Languages :
-![Top Langs](https://github.com/JuanMata/tu-repo/blob/main/assets/stats.png?raw=true)
-> 💡 Most used languages: **Java** and **.NET MAUI**
+### 🤖 AI Tools :
+![ChatGPT](https://img.shields.io/badge/ChatGPT-41B883?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-34A853?style=for-the-badge&logo=google&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-6e40c9?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+### 📊 Most Used Languages :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMata&layout=compact&theme=radical&langs_count=8)](https://github.com/JuanMata)
+
+> 💡 Most used languages: **Java** and **.NET MAUI**
 
 ---
 
