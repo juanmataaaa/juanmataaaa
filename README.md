@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hello, I'm Juan 👋
 
 I'm **Juan Mata**, a passionate **Multiplatform Application Developer** who loves creating software that solves real-world problems. I'm always exploring new technologies, improving my skills, and building apps and games that combine creativity with solid code.
 
